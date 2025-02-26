@@ -16,7 +16,7 @@
 ## Screenshots
 
 ### Portfolio Home Page
-[portfolio leonardo basso](https://portfolio-leonardo-tan.vercel.app/)
+[Portfolio](https://portfolio-leonardo-tan.vercel.app/)
 ![Portfolio Home Page](screenshots/page-1.png)
 
 ### Project Section
