@@ -17,18 +17,6 @@
 
 ### Portfolio Home Page
 [Portfolio](https://portfolio-leonardo-tan.vercel.app/)
-![Portfolio Home Page](screenshots/page-1.png)
-
-### Project Section
-![Project Section](screenshots/page-2.png)
-
-## Services Section
-![Services Section](screenshots/page-3.png)
-
-## Contact Section
-![Contact Section](screenshots/page-4.png)
-
-
 
 ## Project Status
 The portfolio is currently **ready** to host projects, but the project section is empty as I am still in the process of curating and uploading my work.
