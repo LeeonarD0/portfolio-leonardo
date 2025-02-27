@@ -13,10 +13,8 @@
 - **CSS**: For styling and layout.
 - **JavaScript**: For adding interactivity.
 
-## Screenshots
-
-### Portfolio Home Page
-[Portfolio](https://portfolio-leonardo-tan.vercel.app/)
+### Portfolio
+Check It: [Portfolio](https://portfolio-leonardo-tan.vercel.app/)
 
 ## Project Status
 The portfolio is currently **ready** to host projects, but the project section is empty as I am still in the process of curating and uploading my work.
